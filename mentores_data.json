@@ -1,152 +1,107 @@
 [
   {
-    "name": "Aldo Teixeira",
-    "role": "Commercial Manager | Key Account Manager",
-    "link": "https://www.linkedin.com/in/aldo-teixeira-21a4b995/",
-    "img": "elementos/mentores/aldo-teixeira.jpg"
+    "name": "Ana Elisa Iemini",
+    "role": "Consultora em ESG e Sustentabilidade Corporativa",
+    "link": "https://airtable.com/appNpzNg1CLsXf3Hn/shrhHcTKwTnzAdM4o/tblz2ADXqNnD830uA",
+    "has_custom_linkedin": false,
+    "img": "elementos/mentores/ana-elisa-iemini.jpg"
   },
   {
-    "name": "Alexander Coelho",
-    "role": "Founder e CEO - Sanders do Brasil",
-    "link": "https://www.linkedin.com/in/sanders-do-brasil/",
-    "img": "elementos/mentores/alexander-coelho.jpg"
+    "name": "André Luis da Silva",
+    "role": "Gerente de Engenharia de Software Embarcado - Padtec",
+    "link": "https://www.linkedin.com/in/andré-silva-a3a659a7",
+    "has_custom_linkedin": true,
+    "img": "elementos/mentores/andre-luis-da-silva.jpg"
   },
   {
-    "name": "Anderson Dias",
-    "role": "Proprietário AGTechnologies",
-    "link": "https://www.linkedin.com/in/anderson-dias-2a376539/",
-    "img": "elementos/mentores/anderson-dias.jpg"
-  },
-  {
-    "name": "Antônio Augusto",
-    "role": "Designer de serviços e consultor para novos projetos",
+    "name": "Antônio Augusto Alves da Silva",
+    "role": "Designer de Serviços e Inovação - Hospital Albert Einstein",
     "link": "https://www.linkedin.com/in/augustoantonio/",
-    "img": "elementos/mentores/antonio-augusto.jpg"
+    "has_custom_linkedin": true,
+    "img": "elementos/mentores/antonio-augusto-alves-da-silva.jpg"
   },
   {
-    "name": "Augusto Ohashi",
-    "role": "CEO - Nouvenn IoT",
-    "link": "https://www.linkedin.com/in/augusto-ohashi-976407449/",
-    "img": "elementos/mentores/augusto-ohashi.jpg"
-  },
-  {
-    "name": "Bruno Gouvea",
-    "role": "COO na Monuv",
+    "name": "Bruno Mecchi Gouvea",
+    "role": "Empreendedor de Tecnologia e CRO - Monuv",
     "link": "https://www.linkedin.com/in/bmgouvea/",
-    "img": "elementos/mentores/bruno-gouvea.jpg"
+    "has_custom_linkedin": true,
+    "img": "elementos/mentores/bruno-mecchi-gouvea.jpg"
   },
   {
-    "name": "Cínthia Costa",
-    "role": "TEDx Speaker | Palestrante | Mindfulness",
-    "link": "https://www.linkedin.com/in/cinthia-costa/",
-    "img": "elementos/mentores/cinthia-costa.jpg"
+    "name": "Fabiana Gomes Almeida Calil",
+    "role": "Estrategista em Marketing, Branding e Gestão",
+    "link": "https://www.linkedin.com/in/fabiana-calil/",
+    "has_custom_linkedin": true,
+    "img": "elementos/mentores/fabiana-gomes-almeida-calil.jpg"
   },
   {
-    "name": "Fernando Costa",
-    "role": "Founder e Sócio proprietário da Alba Energia",
-    "link": "https://www.linkedin.com/in/fernando-augusto-costa-36016957/",
-    "img": "elementos/mentores/fernando-costa.jpg"
-  },
-  {
-    "name": "Gilliani Souza",
-    "role": "Psicóloga executiva criadora do Método POD",
-    "link": "https://www.linkedin.com/in/giliani-souza-florescer-8758884a/",
-    "img": "elementos/mentores/gilliani-souza.jpg"
-  },
-  {
-    "name": "Gilsa Firmino",
-    "role": "Fundadora da GF Gestão de Talentos | RH",
-    "link": "https://www.linkedin.com/in/gilsafirmino/",
-    "img": "elementos/mentores/gilsa-firmino.jpg"
-  },
-  {
-    "name": "Giulia Amarante",
-    "role": "Executiva de Vendas",
+    "name": "Giulia Silva da Silva Amarante",
+    "role": "Executiva e Estrategista de Vendas B2B",
     "link": "https://www.linkedin.com/in/giuliamarante/",
-    "img": "elementos/mentores/giulia-amarante.jpg"
+    "has_custom_linkedin": true,
+    "img": "elementos/mentores/giulia-silva-da-silva-amarante.jpg"
   },
   {
-    "name": "Higor Paz",
-    "role": "Advogado Empresarial, Inovação e Investimentos",
-    "link": "https://www.linkedin.com/in/drhigorpaz/",
-    "img": "elementos/mentores/higor-paz.jpg"
+    "name": "Jaíne Cássia Fonseca Amaral",
+    "role": "Gestão, Economia Criativa e Inovação",
+    "link": "https://airtable.com/appNpzNg1CLsXf3Hn/shrhHcTKwTnzAdM4o/tblz2ADXqNnD830uA",
+    "has_custom_linkedin": false,
+    "img": "elementos/mentores/jaine-cassia-fonseca-amaral.jpg"
   },
   {
-    "name": "Jaíne Amaral",
-    "role": "Founder of PlanWay | Head of Operações at HackTown",
-    "link": "https://www.linkedin.com/in/ja%C3%ADne-amaral/",
-    "img": "elementos/mentores/jaine-amaral.jpg"
+    "name": "Lucas Henrique Cavalcante Iemini",
+    "role": "Designer Sênior de Marca e Produto",
+    "link": "https://www.linkedin.com/in/lucasiemini/",
+    "has_custom_linkedin": true,
+    "img": "elementos/mentores/lucas-henrique-cavalcante-iemini.jpg"
   },
   {
-    "name": "Júlia Volpato",
-    "role": "Relações Públicas | Desenvolvedora de Negócios",
-    "link": "https://www.linkedin.com/in/juliavolpato/",
-    "img": "elementos/mentores/julia-volpato.jpg"
+    "name": "Mateus Raimundo da Cruz",
+    "role": "Cientista de Dados Sênior e Especialista em IA",
+    "link": "https://www.linkedin.com/in/mateuscruzz/",
+    "has_custom_linkedin": true,
+    "img": "elementos/mentores/mateus-raimundo-da-cruz.jpg"
   },
   {
-    "name": "Juliana Caminha",
-    "role": "Professora de Marketing & Empreendedorismo - Unifei",
-    "link": "https://www.linkedin.com/in/juliana-caminha-noronha-76422815/",
-    "img": "elementos/mentores/juliana-caminha.jpg"
+    "name": "Rafael Cássio de Souza Bernardes",
+    "role": "CEO e Cofundador - Vektor Fitness",
+    "link": "https://www.linkedin.com/in/rafael-wake/",
+    "has_custom_linkedin": true,
+    "img": "elementos/mentores/rafael-cassio-de-souza-bernardes.jpg"
   },
   {
-    "name": "Marcos Vieira Rangel",
-    "role": "Founder & Sócio-Diretor na Alie.Capital | Conselheiro",
-    "link": "https://www.linkedin.com/in/marcosvrangel/",
-    "img": "elementos/mentores/marcos-rangel.jpg"
-  },
-  {
-    "name": "Monica Martinez",
-    "role": "Fundadora da M2G Consultoria | Customer Success",
-    "link": "https://m2gconsultoria.com",
-    "img": "elementos/mentores/monica-martinez.jpg"
-  },
-  {
-    "name": "Rafael Mendonça",
-    "role": "Co-Founder & CTO at 4intelligence Data Science",
+    "name": "Rafael Fernandes Mendonça",
+    "role": "CTO e Cofundador - 4intelligence",
     "link": "https://www.linkedin.com/in/rfmendonca/",
-    "img": "elementos/mentores/rafael-mendonca.jpg"
+    "has_custom_linkedin": true,
+    "img": "elementos/mentores/rafael-fernandes-mendonca.jpg"
   },
   {
-    "name": "Raphael Pereira",
-    "role": "Professor no Inatel",
-    "link": "https://www.linkedin.com/in/raphaelcardosomotapereira/",
-    "img": "elementos/mentores/raphael-pereira.jpg"
+    "name": "Raoní Teixeira Pinto Ribeiro",
+    "role": "Inovação, IA e Produtos Digitais - Ex-Movile / iFood",
+    "link": "https://www.linkedin.com/in/raoniteixeirapr/",
+    "has_custom_linkedin": true,
+    "img": "elementos/mentores/raoni-teixeira-pinto-ribeiro.jpg"
   },
   {
-    "name": "Rita Elizabeth",
-    "role": "Coordenadora de Projetos eHealth Innovation Center",
-    "link": "https://www.linkedin.com/in/ritaelizabeth/",
-    "img": "elementos/mentores/rita-elizabeth.jpg"
-  },
-  {
-    "name": "Roberto Samarone",
-    "role": "Advogado Tributarista e Contador",
-    "link": "https://www.linkedin.com/in/roberto-samarone-b-s-a245684b/",
-    "img": "elementos/mentores/roberto-samarone.jpg"
-  },
-  {
-    "name": "Ronaldo Sirosse",
-    "role": "Founder e Sócio na VaR Business Beyond",
-    "link": "https://www.linkedin.com/in/ronaldo-sirosse-817bb912/",
-    "img": "elementos/mentores/ronaldo-sirosse.jpg"
+    "name": "Rovilson Vieira Junior",
+    "role": "Especialista Financeiro e Gestão de PMEs",
+    "link": "https://www.linkedin.com/in/rovilson-vieira-junior-5004174b/",
+    "has_custom_linkedin": true,
+    "img": "elementos/mentores/rovilson-vieira-junior.jpg"
   },
   {
     "name": "Thales Coutinho",
-    "role": "CEO na Mulher em Forma",
-    "link": "https://www.linkedin.com/in/thalescoutinho/",
+    "role": "CEO e Cofundador - Mulher em Forma",
+    "link": "https://airtable.com/appNpzNg1CLsXf3Hn/shrhHcTKwTnzAdM4o/tblz2ADXqNnD830uA",
+    "has_custom_linkedin": false,
     "img": "elementos/mentores/thales-coutinho.jpg"
   },
   {
-    "name": "Thomas Hartmann Henke",
-    "role": "Diretor de Operações e Conselheiro Consultivo",
-    "link": "https://www.linkedin.com/in/thomas-hartmann-henke-ab8923bb/",
-    "img": "elementos/mentores/thomas-hartmann.jpg"
-  },
-  {
-    "name": "Vinícius Montgomery",
-    "role": "Professor de Economia e Finanças - INATEL",
-    "link": "https://www.linkedin.com/in/vinicius-montgomery/",
-    "img": "elementos/mentores/vinicius-montgomery.jpg"
+    "name": "Thales Tito Borges",
+    "role": "Engenheiro Ambiental e Gestão de Projetos",
+    "link": "https://www.linkedin.com/in/thalestitoborges/",
+    "has_custom_linkedin": true,
+    "img": "elementos/mentores/thales-tito-borges.jpg"
   }
 ]
