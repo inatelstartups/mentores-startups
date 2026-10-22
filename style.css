@@ -117,8 +117,8 @@ body {
 .mentors-viewport {
     overflow: hidden;
     width: 100%;
-    padding: 12px 0 16px 0;
-    margin: -12px 0 -16px 0;
+    padding: 12px 0;
+    margin: -12px 0;
 }
 
 .mentors-track {
@@ -325,6 +325,15 @@ body {
     transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
     z-index: 10;
     box-shadow: none;
+    padding: 0;
+    line-height: 0;
+}
+
+.slider-arrow svg {
+    display: block;
+    width: 24px;
+    height: 24px;
+    transition: transform 0.25s ease;
 }
 
 .slider-arrow:hover {
@@ -343,8 +352,16 @@ body {
     left: 4px;
 }
 
+.slider-arrow.prev svg {
+    transform: translateX(-1.5px);
+}
+
 .slider-arrow.next {
     right: 4px;
+}
+
+.slider-arrow.next svg {
+    transform: translateX(1px);
 }
 
 @media (max-width: 640px) {
