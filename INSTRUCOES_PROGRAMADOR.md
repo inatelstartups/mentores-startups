@@ -1,6 +1,6 @@
 # Rede de Mentores — Inatel Startups (Guia de Implementação)
 
-Este projeto contém a seção **Nossos Mentores** do Inatel Startups (25 mentores com fotos ampliadas, cargos e links de LinkedIn), publicada e pronta para ser inserida via **Embed (`<iframe>`)** ou **código-fonte direto**.
+Este projeto contém o módulo responsivo da seção **Nossos Mentores** do Inatel Startups (15 mentores da Vitrine Oficial com fotos de alta resolução, cargos, links do LinkedIn e botão para o Airtable), publicado e pronto para ser inserido via **Embed (`<iframe>`)** ou **código-fonte direto**.
 
 ---
 
@@ -8,6 +8,7 @@ Este projeto contém a seção **Nossos Mentores** do Inatel Startups (25 mentor
 
 - **URL do Frame (GitHub Pages):** [https://inatelstartups.github.io/mentores-startups/](https://inatelstartups.github.io/mentores-startups/)
 - **Repositório GitHub:** [https://github.com/inatelstartups/mentores-startups](https://github.com/inatelstartups/mentores-startups)
+- **Base Oficial no Airtable:** [https://airtable.com/appNpzNg1CLsXf3Hn/shrhHcTKwTnzAdM4o/tblz2ADXqNnD830uA](https://airtable.com/appNpzNg1CLsXf3Hn/shrhHcTKwTnzAdM4o/tblz2ADXqNnD830uA)
 
 ---
 
