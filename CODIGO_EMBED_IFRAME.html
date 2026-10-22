@@ -1,0 +1,28 @@
+<!-- ======================================================================
+     BLOCO EMBED (IFRAME) — REDE DE MENTORES INATEL STARTUPS
+     Basta colar este código onde a seção "Mentores" deve aparecer no site.
+     Qualquer atualização feita no GitHub refletirá automaticamente na página!
+     ====================================================================== -->
+<div id="inatel-mentores-embed-wrapper" style="width: 100%; overflow: hidden;">
+    <iframe
+        id="inatel-mentores-iframe"
+        src="https://inatelstartups.github.io/mentores-startups/"
+        title="Nossos Mentores - Inatel Startups"
+        style="width: 100%; min-height: 580px; border: none; display: block; background: transparent;"
+        scrolling="no"
+        loading="lazy"
+        allowtransparency="true"
+    ></iframe>
+</div>
+
+<script>
+    // Ajusta automaticamente a altura do iframe conforme o tamanho da tela (sem barra de rolagem interna)
+    window.addEventListener('message', function (event) {
+        if (event.data && event.data.type === 'inatel-mentors-resize' && event.data.height) {
+            var iframe = document.getElementById('inatel-mentores-iframe');
+            if (iframe) {
+                iframe.style.height = event.data.height + 'px';
+            }
+        }
+    });
+</script>
