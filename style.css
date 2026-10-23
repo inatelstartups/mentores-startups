@@ -7,8 +7,8 @@
     --primary-hover: #ff7a29;
     --secondary: #2563EB;
     --secondary-rgb: 37, 99, 235;
-    --bg-main: #060B1E;                 /* Azul marinho profundo oficial do Inatel Startups */
-    --bg-card: rgba(255, 255, 255, 0.018); /* Transparência suave e limpa idêntica ao site */
+    --bg-main: #060B1E;
+    --bg-card: rgba(255, 255, 255, 0.018);
     --bg-card-hover: rgba(255, 255, 255, 0.035);
     --border-color: rgba(255, 255, 255, 0.06);
     --text-light: #f8fafc;
@@ -31,7 +31,6 @@ body {
     -webkit-font-smoothing: antialiased;
 }
 
-/* ================= SECTION CONTAINER ================= */
 .section {
     padding: 60px 0 50px 0;
     position: relative;
@@ -45,14 +44,9 @@ body {
     padding: 0 20px;
 }
 
-@media (min-width: 640px) {
-    .container { padding: 0 32px; }
-}
-@media (min-width: 1024px) {
-    .container { padding: 0 40px; }
-}
+@media (min-width: 640px) { .container { padding: 0 32px; } }
+@media (min-width: 1024px) { .container { padding: 0 40px; } }
 
-/* ================= HEADER ================= */
 .section-header {
     text-align: center;
     margin-bottom: 44px;
@@ -68,9 +62,7 @@ body {
     letter-spacing: -0.02em;
 }
 
-.section-header h2 span {
-    color: var(--primary);
-}
+.section-header h2 span { color: var(--primary); }
 
 .section-header p {
     font-size: 15.5px;
@@ -81,38 +73,21 @@ body {
 }
 
 @media (max-width: 640px) {
-    .section {
-        padding: 40px 0 30px 0;
-    }
-    .section-header {
-        margin-bottom: 28px;
-    }
-    .section-header h2 {
-        font-size: 1.85rem;
-    }
-    .section-header p {
-        font-size: 14px;
-    }
-    .mentors-dots-container {
-        margin-top: 24px;
-    }
-    .mentors-cta-container {
-        margin-top: 24px !important;
-    }
+    .section { padding: 40px 0 30px 0; }
+    .section-header { margin-bottom: 28px; }
+    .section-header h2 { font-size: 1.85rem; }
+    .section-header p { font-size: 14px; }
+    .mentors-dots-container { margin-top: 24px; }
+    .mentors-cta-container { margin-top: 24px !important; }
 }
 
-/* ================= CAROUSEL WRAPPER ================= */
 .mentors-carousel-wrapper {
     position: relative;
     padding: 0 60px;
     margin-top: 10px;
 }
 
-@media (max-width: 640px) {
-    .mentors-carousel-wrapper {
-        padding: 0;
-    }
-}
+@media (max-width: 640px) { .mentors-carousel-wrapper { padding: 0; } }
 
 .mentors-viewport {
     overflow: hidden;
@@ -130,11 +105,8 @@ body {
     align-items: stretch;
 }
 
-.mentors-track.dragging {
-    transition: none !important;
-}
+.mentors-track.dragging { transition: none !important; }
 
-/* ================= MENTOR CARD (FOTOS MAIORES) ================= */
 .mentor-card {
     background: var(--bg-card);
     border: 1px solid var(--border-color);
@@ -156,27 +128,17 @@ body {
 }
 
 @media (max-width: 1024px) {
-    .mentor-card {
-        flex: 0 0 calc((100% - 2 * 24px) / 3);
-    }
+    .mentor-card { flex: 0 0 calc((100% - 2 * 24px) / 3); }
 }
 
 @media (max-width: 768px) {
-    .mentor-card {
-        flex: 0 0 calc((100% - 20px) / 2);
-    }
-    .mentors-track {
-        gap: 20px;
-    }
+    .mentor-card { flex: 0 0 calc((100% - 20px) / 2); }
+    .mentors-track { gap: 20px; }
 }
 
 @media (max-width: 480px) {
-    .mentor-card {
-        flex: 0 0 100%;
-    }
-    .mentors-track {
-        gap: 16px;
-    }
+    .mentor-card { flex: 0 0 100%; }
+    .mentors-track { gap: 16px; }
 }
 
 .mentor-card:hover {
@@ -186,7 +148,6 @@ body {
     box-shadow: 0 10px 30px rgba(255, 94, 0, 0.08) !important;
 }
 
-/* ================= AVATAR (FOTOS MAIORES COM ANEL ELEGANTE) ================= */
 .mentor-avatar-container {
     width: 125px;
     height: 125px;
@@ -217,11 +178,8 @@ body {
     transition: transform 0.4s ease;
 }
 
-.mentor-card:hover .mentor-avatar-img {
-    transform: scale(1.04);
-}
+.mentor-card:hover .mentor-avatar-img { transform: scale(1.04); }
 
-/* ================= MENTOR INFO ================= */
 .mentor-info {
     display: flex;
     flex-direction: column;
@@ -252,12 +210,10 @@ body {
     min-height: 36px;
 }
 
-/* ================= MENTOR FOOTER & LINKEDIN ================= */
 .mentor-footer {
     width: 100%;
     margin-top: auto;
     padding-top: 6px;
-    border-top: none;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -280,9 +236,17 @@ body {
     transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
-.mentor-link-btn .linkedin-icon {
+.linkedin-icon,
+.arrow-icon {
+    display: block;
+    width: 14px;
+    height: 14px;
+    flex-shrink: 0;
+}
+
+.linkedin-icon {
     color: #60a5fa;
-    transition: color 0.25s ease;
+    fill: currentColor;
 }
 
 .mentor-link-btn .arrow-icon {
@@ -297,15 +261,9 @@ body {
     box-shadow: 0 4px 14px rgba(10, 102, 194, 0.35);
 }
 
-.mentor-link-btn:hover .linkedin-icon {
-    color: #ffffff;
-}
+.mentor-link-btn:hover .linkedin-icon { color: #ffffff; }
+.mentor-link-btn:hover .arrow-icon { transform: translateX(3px); }
 
-.mentor-link-btn:hover .arrow-icon {
-    transform: translateX(3px);
-}
-
-/* ================= SLIDER ARROWS ================= */
 .slider-arrow {
     position: absolute;
     top: 50%;
@@ -344,33 +302,14 @@ body {
     box-shadow: 0 6px 20px rgba(var(--primary-rgb), 0.35);
 }
 
-.slider-arrow:active {
-    transform: translateY(-50%) scale(0.95);
-}
+.slider-arrow:active { transform: translateY(-50%) scale(0.95); }
+.slider-arrow.prev { left: 4px; }
+.slider-arrow.prev svg { transform: translateX(-1.5px); }
+.slider-arrow.next { right: 4px; }
+.slider-arrow.next svg { transform: translateX(1px); }
 
-.slider-arrow.prev {
-    left: 4px;
-}
+@media (max-width: 640px) { .slider-arrow { display: none; } }
 
-.slider-arrow.prev svg {
-    transform: translateX(-1.5px);
-}
-
-.slider-arrow.next {
-    right: 4px;
-}
-
-.slider-arrow.next svg {
-    transform: translateX(1px);
-}
-
-@media (max-width: 640px) {
-    .slider-arrow {
-        display: none;
-    }
-}
-
-/* ================= DOTS / INDICATORS ================= */
 .mentors-dots-container {
     display: flex;
     justify-content: center;
@@ -391,9 +330,7 @@ body {
     transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
-.mentor-dot:hover {
-    background: rgba(255, 255, 255, 0.45);
-}
+.mentor-dot:hover { background: rgba(255, 255, 255, 0.45); }
 
 .mentor-dot.active {
     width: 26px;
@@ -402,7 +339,6 @@ body {
     box-shadow: 0 0 12px rgba(var(--primary-rgb), 0.55);
 }
 
-/* ================= CTA BUTTON AIRTABLE ================= */
 .btn-outline {
     background-color: transparent;
     color: white;
@@ -426,13 +362,8 @@ body {
     box-shadow: 0 8px 25px rgba(0, 0, 0, 0.45);
 }
 
-.btn-outline svg {
-    transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1);
-}
-
-.btn-outline:hover svg {
-    transform: translateX(6px);
-}
+.btn-outline svg { transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1); }
+.btn-outline:hover svg { transform: translateX(6px); }
 
 @media (max-width: 480px) {
     .btn-outline {
@@ -443,4 +374,3 @@ body {
         justify-content: center;
     }
 }
-
