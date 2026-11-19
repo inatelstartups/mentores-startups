@@ -1,5 +1,12 @@
 [
   {
+    "name": "Adriana Timóteo Pinto",
+    "role": "Gestão Financeira, Controladoria e Processos",
+    "link": "https://www.linkedin.com/in/adriana-timóteo-pinto-955ba11ab?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+    "has_custom_linkedin": true,
+    "img": "elementos/mentores/adriana-timoteo-pinto.jpg"
+  },
+  {
     "name": "Ana Elisa Iemini",
     "role": "Consultora em ESG e Sustentabilidade Corporativa",
     "link": "https://airtable.com/appNpzNg1CLsXf3Hn/shrhHcTKwTnzAdM4o/tblz2ADXqNnD830uA",
@@ -21,11 +28,32 @@
     "img": "elementos/mentores/antonio-augusto-alves-da-silva.jpg"
   },
   {
+    "name": "Breno Vinícius Ferreira",
+    "role": "Executivo de Tecnologia e Estratégia",
+    "link": "https://www.linkedin.com/in/brenovferreira/",
+    "has_custom_linkedin": true,
+    "img": "elementos/mentores/breno-vinicius-ferreira.jpg"
+  },
+  {
     "name": "Bruno Mecchi Gouvea",
     "role": "Empreendedor de Tecnologia e CRO - Monuv",
-    "link": "https://www.linkedin.com/in/bmgouvea/",
+    "link": "https://www.linkedin.com/in/bmgouvea",
     "has_custom_linkedin": true,
     "img": "elementos/mentores/bruno-mecchi-gouvea.jpg"
+  },
+  {
+    "name": "Cinthia Costa Leite",
+    "role": "Especialista em Bem-Estar e Redução de Estresse",
+    "link": "https://www.linkedin.com/in/cinthia-costa/",
+    "has_custom_linkedin": true,
+    "img": "elementos/mentores/cinthia-costa-leite.jpg"
+  },
+  {
+    "name": "Edson Mallet Maia Ribeiro",
+    "role": "Engenheiro de Software Fullstack e Empreendedor",
+    "link": "https://www.linkedin.com/in/edsonmallet/",
+    "has_custom_linkedin": true,
+    "img": "elementos/mentores/edson-mallet-maia-ribeiro.jpg"
   },
   {
     "name": "Fabiana Gomes Almeida Calil",
@@ -35,11 +63,25 @@
     "img": "elementos/mentores/fabiana-gomes-almeida-calil.jpg"
   },
   {
+    "name": "Flávia Silveira",
+    "role": "Mentora de Negócios e Estratégia",
+    "link": "https://www.linkedin.com/in/silveiraflavia",
+    "has_custom_linkedin": true,
+    "img": "elementos/mentores/flavia-silveira.jpg"
+  },
+  {
     "name": "Giulia Silva da Silva Amarante",
     "role": "Executiva e Estrategista de Vendas B2B",
-    "link": "https://www.linkedin.com/in/giuliamarante/",
+    "link": "https://www.linkedin.com/in/giuliamarante",
     "has_custom_linkedin": true,
     "img": "elementos/mentores/giulia-silva-da-silva-amarante.jpg"
+  },
+  {
+    "name": "Igor Mendes Pereira",
+    "role": "Cofundador e CEO - Soil Tecnologia",
+    "link": "https://www.linkedin.com/in/igor-mendes-pereira",
+    "has_custom_linkedin": true,
+    "img": "elementos/mentores/igor-mendes-pereira.jpg"
   },
   {
     "name": "Jaíne Cássia Fonseca Amaral",
@@ -49,9 +91,23 @@
     "img": "elementos/mentores/jaine-cassia-fonseca-amaral.jpg"
   },
   {
+    "name": "Julia Volpato da Silva",
+    "role": "Relações Públicas e Comunidades - Games",
+    "link": "https://www.linkedin.com/in/juliavolpato/",
+    "has_custom_linkedin": true,
+    "img": "elementos/mentores/julia-volpato.jpg"
+  },
+  {
+    "name": "Laryssa Caroline Gonçalves",
+    "role": "Psicóloga e Mentora de Carreira - Inatel",
+    "link": "https://www.linkedin.com/in/psilaryssagoncalves/",
+    "has_custom_linkedin": true,
+    "img": "elementos/mentores/laryssa-caroline-goncalves.jpg"
+  },
+  {
     "name": "Lucas Henrique Cavalcante Iemini",
     "role": "Designer Sênior de Marca e Produto",
-    "link": "https://www.linkedin.com/in/lucasiemini/",
+    "link": "https://www.linkedin.com/in/lucasiemini/?isSelfProfile=true",
     "has_custom_linkedin": true,
     "img": "elementos/mentores/lucas-henrique-cavalcante-iemini.jpg"
   },
@@ -63,9 +119,30 @@
     "img": "elementos/mentores/mateus-raimundo-da-cruz.jpg"
   },
   {
+    "name": "Otavio Scardelato Junior",
+    "role": "Direção de Projetos e Vendas Internacionais",
+    "link": "https://www.linkedin.com/in/otavioscardelatojr/",
+    "has_custom_linkedin": true,
+    "img": "elementos/mentores/otavio-scardelato-junior.jpg"
+  },
+  {
+    "name": "Paula Gimenes de Melo",
+    "role": "Mentora de Inglês para Negócios e Comunicação Global",
+    "link": "https://www.linkedin.com/in/paula-gimenes/",
+    "has_custom_linkedin": true,
+    "img": "elementos/mentores/paula-gimenes-de-melo.jpg"
+  },
+  {
+    "name": "Priscila de Oliveira Inácio Alves",
+    "role": "Especialista em Comércio Exterior e Internacionalização",
+    "link": "https://www.linkedin.com/in/priscila-oliveira-inácio-alves-9178b727",
+    "has_custom_linkedin": true,
+    "img": "elementos/mentores/priscila-de-oliveira-inacio-alves.jpg"
+  },
+  {
     "name": "Rafael Cássio de Souza Bernardes",
     "role": "CEO e Cofundador - Vektor Fitness",
-    "link": "https://www.linkedin.com/in/rafael-wake/",
+    "link": "https://www.linkedin.com/in/rafael-wake",
     "has_custom_linkedin": true,
     "img": "elementos/mentores/rafael-cassio-de-souza-bernardes.jpg"
   },
@@ -77,11 +154,32 @@
     "img": "elementos/mentores/rafael-fernandes-mendonca.jpg"
   },
   {
+    "name": "Raíssa Ramos Fernandes",
+    "role": "Estratégia de Crescimento e Operações em Startups",
+    "link": "https://www.linkedin.com/in/raissaramosf/",
+    "has_custom_linkedin": true,
+    "img": "elementos/mentores/raissa-ramos-fernandes.jpg"
+  },
+  {
     "name": "Raoní Teixeira Pinto Ribeiro",
     "role": "Inovação, IA e Produtos Digitais - Ex-Movile / iFood",
     "link": "https://www.linkedin.com/in/raoniteixeirapr/",
     "has_custom_linkedin": true,
     "img": "elementos/mentores/raoni-teixeira-pinto-ribeiro.jpg"
+  },
+  {
+    "name": "Rita Elizabeth Santos de Almeida",
+    "role": "Coordenadora de Projetos - eHealth Innovation Center",
+    "link": "https://www.linkedin.com/in/ritaelizabeth?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+    "has_custom_linkedin": true,
+    "img": "elementos/mentores/rita-elizabeth.jpg"
+  },
+  {
+    "name": "Ronaldo Sirosse",
+    "role": "Sócio e Head de Processos, TI e Gestão - VaR",
+    "link": "https://www.linkedin.com/in/ronaldo-sirosse-817bb912",
+    "has_custom_linkedin": true,
+    "img": "elementos/mentores/ronaldo-sirosse.jpg"
   },
   {
     "name": "Rovilson Vieira Junior",
@@ -93,8 +191,8 @@
   {
     "name": "Thales Coutinho",
     "role": "CEO e Cofundador - Mulher em Forma",
-    "link": "https://www.linkedin.com/in/thalescoutinho/",
-    "has_custom_linkedin": true,
+    "link": "https://airtable.com/appNpzNg1CLsXf3Hn/shrhHcTKwTnzAdM4o/tblz2ADXqNnD830uA",
+    "has_custom_linkedin": false,
     "img": "elementos/mentores/thales-coutinho.jpg"
   },
   {
@@ -103,5 +201,12 @@
     "link": "https://www.linkedin.com/in/thalestitoborges/",
     "has_custom_linkedin": true,
     "img": "elementos/mentores/thales-tito-borges.jpg"
+  },
+  {
+    "name": "Thomas Hartmann Henke",
+    "role": "Gestão Industrial, Operações e Finanças",
+    "link": "https://www.linkedin.com/in/thomas-hartmann-henke-ab8923bb/",
+    "has_custom_linkedin": true,
+    "img": "elementos/mentores/thomas-hartmann.jpg"
   }
 ]
